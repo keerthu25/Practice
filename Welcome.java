@@ -3,6 +3,7 @@ public class Welcome{
   int a,b;
 public static void main(String[] args){
   int total=a+b;
-System.out.println("Total is"+total);
+  int difference=a-b;
+System.out.println("Total is"+total+differnece);
 }
 }
